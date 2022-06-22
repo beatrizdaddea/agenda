@@ -95,7 +95,6 @@ loop do
             remover_contato 
         else 
             puts "Função Inválida"
-            puts""
     end 
     
 end 
